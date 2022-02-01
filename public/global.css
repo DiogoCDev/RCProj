@@ -1,0 +1,17 @@
+:root{
+    --primary-color: #6063ff;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+    color: white;
+    background-color: rgb(27, 27, 27);
+}
+
+hr{
+    border: 0;
+    height: 0;
+    width: 90%;
+    border-top: 1px dashed rgba(0, 0, 0, 0.1);
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.3);
+}
