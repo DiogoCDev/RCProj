@@ -33,6 +33,7 @@
 	header {
 		background-color: rgb(61, 61, 61);
 		height: 5em;
+		box-shadow: 2px 3px 10px #000000;
 	}
 	.header-icon {
 		margin-left: 1.7em;
@@ -65,6 +66,7 @@
 		background-color: var(--primary-color);
 		border: none;
 		border-radius: 15px;
+		box-shadow: 2px 3px 10px #000000;
 	}
 
 	.header-btns-service:hover {
